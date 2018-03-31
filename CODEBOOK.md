@@ -40,42 +40,42 @@
 * 28      tBodyGyroJerk-mean()-X
 * 29      tBodyGyroJerk-mean()-Y
 * 30      tBodyGyroJerk-mean()-Z
-31       tBodyGyroJerk-std()-X
-32       tBodyGyroJerk-std()-Y
-33       tBodyGyroJerk-std()-Z
-34          tBodyAccMag-mean()
-35           tBodyAccMag-std()
-36       tGravityAccMag-mean()
-37        tGravityAccMag-std()
-38      tBodyAccJerkMag-mean()
-39       tBodyAccJerkMag-std()
-40         tBodyGyroMag-mean()
-41          tBodyGyroMag-std()
-42     tBodyGyroJerkMag-mean()
-43      tBodyGyroJerkMag-std()
-44           fBodyAcc-mean()-X
-45           fBodyAcc-mean()-Y
-46           fBodyAcc-mean()-Z
-47            fBodyAcc-std()-X
-48            fBodyAcc-std()-Y
-49            fBodyAcc-std()-Z
-50       fBodyAccJerk-mean()-X
-51       fBodyAccJerk-mean()-Y
-52       fBodyAccJerk-mean()-Z
-53        fBodyAccJerk-std()-X
-54        fBodyAccJerk-std()-Y
-55        fBodyAccJerk-std()-Z
-56          fBodyGyro-mean()-X
-57          fBodyGyro-mean()-Y
-58          fBodyGyro-mean()-Z
-59           fBodyGyro-std()-X
-60           fBodyGyro-std()-Y
-61           fBodyGyro-std()-Z
-62          fBodyAccMag-mean()
-63           fBodyAccMag-std()
-64  fBodyBodyAccJerkMag-mean()
-65   fBodyBodyAccJerkMag-std()
-66     fBodyBodyGyroMag-mean()
-67      fBodyBodyGyroMag-std()
-68 fBodyBodyGyroJerkMag-mean()
-69  fBodyBodyGyroJerkMag-std()
+* 31       tBodyGyroJerk-std()-X
+* 32       tBodyGyroJerk-std()-Y
+* 33       tBodyGyroJerk-std()-Z
+* 34          tBodyAccMag-mean()
+* 35           tBodyAccMag-std()
+* 36       tGravityAccMag-mean()
+* 37        tGravityAccMag-std()
+* 38      tBodyAccJerkMag-mean()
+* 39       tBodyAccJerkMag-std()
+* 40         tBodyGyroMag-mean()
+* 41          tBodyGyroMag-std()
+* 42     tBodyGyroJerkMag-mean()
+* 43      tBodyGyroJerkMag-std()
+* 44           fBodyAcc-mean()-X
+* 45           fBodyAcc-mean()-Y
+* 46           fBodyAcc-mean()-Z
+* 47            fBodyAcc-std()-X
+* 48            fBodyAcc-std()-Y
+* 49            fBodyAcc-std()-Z
+* 50       fBodyAccJerk-mean()-X
+* 51       fBodyAccJerk-mean()-Y
+* 52       fBodyAccJerk-mean()-Z
+* 53        fBodyAccJerk-std()-X
+* 54        fBodyAccJerk-std()-Y
+* 55        fBodyAccJerk-std()-Z
+* 56          fBodyGyro-mean()-X
+* 57          fBodyGyro-mean()-Y
+* 58          fBodyGyro-mean()-Z
+* 59           fBodyGyro-std()-X
+* 60           fBodyGyro-std()-Y
+* 61           fBodyGyro-std()-Z
+* 62          fBodyAccMag-mean()
+* 63           fBodyAccMag-std()
+* 64  fBodyBodyAccJerkMag-mean()
+* 65   fBodyBodyAccJerkMag-std()
+* 66     fBodyBodyGyroMag-mean()
+* 67      fBodyBodyGyroMag-std()
+* 68 fBodyBodyGyroJerkMag-mean()
+* 69  fBodyBodyGyroJerkMag-std()
