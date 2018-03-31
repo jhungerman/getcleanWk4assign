@@ -10,36 +10,36 @@
 
 ### Full variable list
 
-1                      subject
-2                     activity
-3                       number
-4            tBodyAcc-mean()-X
-5            tBodyAcc-mean()-Y
-6            tBodyAcc-mean()-Z
-7             tBodyAcc-std()-X
-8             tBodyAcc-std()-Y
-9             tBodyAcc-std()-Z
-10        tGravityAcc-mean()-X
-11        tGravityAcc-mean()-Y
-12        tGravityAcc-mean()-Z
-13         tGravityAcc-std()-X
-14         tGravityAcc-std()-Y
-15         tGravityAcc-std()-Z
-16       tBodyAccJerk-mean()-X
-17       tBodyAccJerk-mean()-Y
-18       tBodyAccJerk-mean()-Z
-19        tBodyAccJerk-std()-X
-20        tBodyAccJerk-std()-Y
-21        tBodyAccJerk-std()-Z
-22          tBodyGyro-mean()-X
-23          tBodyGyro-mean()-Y
-24          tBodyGyro-mean()-Z
-25           tBodyGyro-std()-X
-26           tBodyGyro-std()-Y
-27           tBodyGyro-std()-Z
-28      tBodyGyroJerk-mean()-X
-29      tBodyGyroJerk-mean()-Y
-30      tBodyGyroJerk-mean()-Z
+* 1                      subject
+* 2                     activity
+* 3                       number
+* 4            tBodyAcc-mean()-X
+* 5            tBodyAcc-mean()-Y
+* 6            tBodyAcc-mean()-Z
+* 7             tBodyAcc-std()-X
+* 8             tBodyAcc-std()-Y
+* 9             tBodyAcc-std()-Z
+* 10        tGravityAcc-mean()-X
+* 11        tGravityAcc-mean()-Y
+* 12        tGravityAcc-mean()-Z
+* 13         tGravityAcc-std()-X
+* 14         tGravityAcc-std()-Y
+* 15         tGravityAcc-std()-Z
+* 16       tBodyAccJerk-mean()-X
+* 17       tBodyAccJerk-mean()-Y
+* 18       tBodyAccJerk-mean()-Z
+* 19        tBodyAccJerk-std()-X
+* 20        tBodyAccJerk-std()-Y
+* 21        tBodyAccJerk-std()-Z
+* 22          tBodyGyro-mean()-X
+* 23          tBodyGyro-mean()-Y
+* 24          tBodyGyro-mean()-Z
+* 25           tBodyGyro-std()-X
+* 26           tBodyGyro-std()-Y
+* 27           tBodyGyro-std()-Z
+* 28      tBodyGyroJerk-mean()-X
+* 29      tBodyGyroJerk-mean()-Y
+* 30      tBodyGyroJerk-mean()-Z
 31       tBodyGyroJerk-std()-X
 32       tBodyGyroJerk-std()-Y
 33       tBodyGyroJerk-std()-Z
